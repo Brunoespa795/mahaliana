@@ -2,7 +2,7 @@ module.exports.config = {
  name: "uid",
  version: "1.0.0",
  role: 0,
- credits: "Nayan",
+ credits: "Marjhun Baylon",
  aliases: ["uid"]
 };
 

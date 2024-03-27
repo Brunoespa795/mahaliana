@@ -1,7 +1,7 @@
 module.exports.config = {
  name: 'listbox',
  version: '1.0.0',
- credits: 'manhIT',
+ credits: 'Marjhun Baylon',
  role: 2,
  alliases: ['listbox']
 

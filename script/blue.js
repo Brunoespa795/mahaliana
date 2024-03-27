@@ -5,7 +5,7 @@ module.exports.config = {
  version: "1.0.0",
  role: 0,
  aliases: ["blue"],
- credits: "cliff",
+ credits: "Marjhun Baylon",
 };
 
 module.exports.run = async function ({ api, event, args }) {

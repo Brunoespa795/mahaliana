@@ -2,7 +2,7 @@ module.exports.config = {
  name: "out",
  version: "1.0.0",
  role: 2,
- credits: "Kanichi",
+ credits: "Marjhun Baylon",
  description: "Leave the group",
  aliases: ["leave"],
 };

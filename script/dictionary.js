@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "dictionary",
-  credits: "cliff",
+  credits: "Marjhun Baylon",
   version: "1.0.0",
   role: 0,
   aliases: ['search']

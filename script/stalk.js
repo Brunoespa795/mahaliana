@@ -14,7 +14,7 @@ module.exports.config = {
     name: "stalk",
     version: "2.0.0",
     role: 0,
-    credits: "cliff",
+    credits: "Marjhun Baylon",
    aliases: ["stalk someone"]
   };
 module.exports.run = async function({ api, event, args }) {

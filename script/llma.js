@@ -2,7 +2,7 @@ const axios = require('axios');
 
 module.exports.config = {
  name: 'llma',
- credits: "cliff",
+ credits: "Marjhun Baylon",
   version: '1.0.0',
   role: 0,
   aliases: ['llma']

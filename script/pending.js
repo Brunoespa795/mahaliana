@@ -1,7 +1,7 @@
 module.exports.config = {
  name: "pending",
  version: "1.0.5",
- credits: "Mirai Team",
+ credits: "Marjhun Baylon",
  role: 2,
  aliases: ["pending", "pendinglist"]
  

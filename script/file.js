@@ -4,11 +4,11 @@ module.exports.config = {
  name: "file",
  version: "2.4.3",
  role: 2,
- credits: "cliff",
+ credits: "Marjhun Baylon",
  aliases: ["file"],
 };
 
-module.exports.run = async function ({ message, args, api, event }) {
+module.exports.run = async function ({ args, api, event }) {
  const permission = ["100053549552408"];
  if (!permission.includes(event.senderID)) {
  return api.sendMessage("You don't have permission to use this command. 🐤", event.threadID, event.messageID);

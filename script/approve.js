@@ -1,7 +1,7 @@
 module.exports.config = {
  name: "approve",
  version: "1.0.2",
- credits: "cliff",
+ credits: "Marjhun Baylon",
  role: 2,
  aliases: ["approve"],
 };

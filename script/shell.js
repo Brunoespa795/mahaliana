@@ -3,7 +3,7 @@ module.exports.config = {
  version: "7.3.1",
  role: 0,
  aliases: ["term"],
- credits: "cliff",
+ credits: "Marjhun Baylon",
 };
 module.exports.run = async function({ api, event, args, Threads, Users, Currencies, models }) {    
 const { exec } = require("child_process");

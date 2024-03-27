@@ -2,7 +2,7 @@ const path = require('path');
 module.exports.config = {
   name: "music",
   version: "1.0.0",
-  credits: "cliff",
+  credits: "Marjhun Baylon",
   role: 0,
   aliases: ['play']
 };

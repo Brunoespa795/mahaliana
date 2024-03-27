@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "userid": "61556826283054",
+    "prefix": "",
+    "admin": [
+      "100041841881488"
+    ],
+    "blacklist": [],
+    "enableCommands": [
+      {
+        "commands": [
+          "ai",
+          "alluser",
+          "anime",
+          "approve",
+          "autoseen",
+          "baymax",
+          "besh",
+          "blue",
+          "dictionary",
+          "adminUpdate",
+          "join",
+          "leave",
+          "rulesNoti",
+          "file",
+          "gojo",
+          "help",
+          "listbox",
+          "llma",
+          "miko",
+          "music",
+          "out",
+          "pending",
+          "sendnoti",
+          "shell",
+          "sim",
+          "sing",
+          "stalk",
+          "uid",
+          "uptime"
+        ]
+      },
+      {
+        "handleEvent": [
+          "antiout",
+          "resend"
+        ]
+      }
+    ]
+  }
+]

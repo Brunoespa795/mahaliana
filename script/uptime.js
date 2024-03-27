@@ -4,7 +4,7 @@ module.exports.config = {
  name: "uptime",
  version: "1.0.2",
  role: 0,
- credits: "cliff",
+ credits: "Marjhun Baylon",
  description: "uptime",
  aliases: ["up"],
 };

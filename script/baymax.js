@@ -2,7 +2,7 @@ const { get } = require('axios');
 
 module.exports.config = {
  name: "baymax",
- credits: "cliff",
+ credits: "Marjhun Baylon",
   version: '1.0.0',
   role: 0,
   aliases: ['bay']

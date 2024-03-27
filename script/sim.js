@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   role: 0,
   aliases: ["sim"],
-  credits: "KENLIEPLAYS",
+  credits: "Marjhun Baylon",
   description: "Talk to sim",
 };
 

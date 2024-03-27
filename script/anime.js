@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 module.exports.config = {
   name: 'anime',
-  credits: 'cliff',
+  credits: 'Marjhun Baylon',
   version: '1.0.0',
   role: 0,
   aliases: ['hentai']
